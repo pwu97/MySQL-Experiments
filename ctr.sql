@@ -1,4 +1,4 @@
-CREATE TABLE events(
+CREATE TABLE events (
     app_id int,
     event_id varchar(255),
     timestamp datetime
