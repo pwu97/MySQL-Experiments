@@ -51,10 +51,11 @@ SELECT
     SUM(CASE 
             WHEN event_id = 'click' THEN 1 
             ELSE 0 
-    END) / 
-    SUM(CASE WHEN event_id = 'impression' THEN 1 
+        END) / 
+    SUM(CASE 
+            WHEN event_id = 'impression' THEN 1 
             ELSE 0 
-    END) AS ctr
+        END) AS ctr
 FROM
     events
 GROUP BY
