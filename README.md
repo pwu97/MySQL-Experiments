@@ -6,3 +6,4 @@ This repository contains MySQL code to solve different types of SQL problems. Th
 | Facebook | Clickthrough Rate | Easy | [Solution](https://github.com/pwu97/MySQL-Experiments/blob/master/fb_ctr.sql) |
 | Amazon | Cumulative Spend By Product | Easy | [Solution](https://github.com/pwu97/MySQL-Experiments/blob/master/amazon_cumspend.sql) |
 | New York Times | View Types | Easy | [Solution](https://github.com/pwu97/MySQL-Experiments/blob/master/nytimes_views.sql) |
+| Robinhood | Top 3 Cities | Easy | [Solution](https://github.com/pwu97/MySQL-Experiments/blob/master/robinhood_topcities.sql) |
